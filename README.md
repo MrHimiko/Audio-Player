@@ -6,3 +6,5 @@ Music is going from /media file, i am not a backend guy, so i couldnt make it mo
 javascript / jquery for everything about audio player..
 
 Colors on design are bad, i know :)
+
+Traversy Media, thanks :) 
