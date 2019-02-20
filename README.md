@@ -2,17 +2,11 @@
 
 Audio player with functionality:
 
--play
+-play / pause / reload
 
--pause
-
--reload
-
--next
+-next / previous
 
 -playlist (songs are playing one after another, when last song on list is end, first one starts)
-
--previous
 
 -volume slider
 
