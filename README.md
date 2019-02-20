@@ -18,8 +18,7 @@ Audio player with functionality:
 
 -duration slider with timestamps
 
-
-
+<br>
 Music is going from /media file.
 
 javascript / jquery for everything about audio player..
